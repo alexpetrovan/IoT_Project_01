@@ -18,6 +18,8 @@ This is a simple IoT project that demonstrates how to build a gas leakage detect
 4. Connect the buzzer to breadboard: buzzer small pin to "-" layer connected to Arduino Uno GND Pin, buzzer long pin next to the other end of the resistor.
 5. Do the same for the LED as you did for the buzzer.
 6. Connect the Arduino board to the PC and upload the provided code (`Arduino_proj.ino`) to your Arduino Uno board.
+![Arduino Uno](ArduinoUno.jpeg.jpeg)
+![Breadboard](Breadboard.jpeg.jpeg)
 
 ## Code
 ```cpp
