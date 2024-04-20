@@ -9,6 +9,7 @@ This is a simple IoT project that demonstrates how to build a gas leakage detect
 - LED
 - Breadboard
 - Jumper wires
+- 125 Ohm Resistor
 
 ## Installation
 1. Connect the components according to the circuit diagram.
